@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  * Generiert nach Angabe der gewünschen Höhe einen Weihnachtsbaum.
  * Hier ist noch ein Testkommentar für mse ESA5.
+ * Hier kommt noch ein Uptdate-Kommentar.
  * @author: Michaela 
  * @version: 1.0
  */
